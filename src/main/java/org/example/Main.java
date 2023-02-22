@@ -9,5 +9,7 @@ public class Main {
             System.out.println("codding " + i);
             i = i + a;
         }
+
+        String b = "city";
     }
 }
